@@ -1,0 +1,4 @@
+const AIRBNB_API_KEY = "";
+const FIREBASE_API_KEY = "";
+
+export { AIRBNB_API_KEY, FIREBASE_API_KEY }
